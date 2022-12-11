@@ -27,7 +27,7 @@ int main()
     {
         cout<<"zla odpowiedz" <<endl;
         usleep(2000000);
-        cout <<"usuwanie systemu ventura OS w toku...";
+        cout <<"usuwanie systemu w toku...";
         
         usleep(1000000);
         
@@ -53,7 +53,7 @@ int main()
     {
         cout<<"w takim razie gryz glebe" <<endl;
         usleep(2000000);
-        cout <<"usuwanie systemu ventura OS w toku...";
+        cout <<"usuwanie systemu w toku...";
 
         usleep(1000000);
         
